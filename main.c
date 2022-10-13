@@ -47,7 +47,7 @@ while(i!=5){
 
 }
 // this dunction is used to creat and save recors in flie
-void addstudent(){
+void addstudent(){  
      char another;
      FILE *fp;
      struct std a;
